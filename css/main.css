@@ -127,7 +127,7 @@ a:hover {
 }
 
 main {
-    margin-top: 90px;
+    margin-top: 50px;
 }
 
 .main-sec-1 {
@@ -159,7 +159,8 @@ ul li {
     /*text-shadow: 2px 3px 2px black;*/
 }
 
-.main-sec-1_content img {
+.sample {
+    padding-top: 50px;
     max-width: 500px;
     display: block;
     margin: 0 auto;
